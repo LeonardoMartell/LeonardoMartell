@@ -1,0 +1,5 @@
+- 👋 Olá, eu sou @LeonardoMartell
+- 👀 Sou novo na area da tecnologia e busco me inserir no mercado
+- 🌱 Atualmente estou estudando desenvolvimento web e cursando análise e desenvolvimento de software
+- 💞️ Busco contribuir com projetos que possam me ajudar a ganhar conhecimento e elevar minhas habilidades
+- 📫 Meu contato é o e-mail "leonardoalvesaraujo@hotmail.com"
